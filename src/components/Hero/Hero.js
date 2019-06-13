@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          Edinburgh born &amp; raised, working in micro is how I spend most of my days. 💃🏼
+          Cowdenbeath born &amp; raised, working in micro is how I spend most of my days. 💃🏼
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
