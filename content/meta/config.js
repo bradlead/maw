@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "A Science Blog", // <title>
+  shortSiteTitle: "megan the scientist", // <title> ending for posts and pages
+  siteDescription: "A Science blog by Megan",
+  siteUrl: "https://meganthescientist.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
@@ -16,8 +16,8 @@ module.exports = {
   headerSubTitle: "Microbiologist, Future Regulatory Affairs Analyst",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Science Blog",
+  manifestShortName: "blog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -31,9 +31,9 @@ module.exports = {
   gravatarImgMd5: "",
 
   // social
-  authorSocialLinks: [
+  authorSocialLinks: [/*
     { name: "github", url: "https://github.com/greglobinski" },
     { name: "twitter", url: "https://twitter.com/greglobinski" },
     { name: "facebook", url: "http://facebook.com/greglobinski" }
-  ]
+  */]
 };
